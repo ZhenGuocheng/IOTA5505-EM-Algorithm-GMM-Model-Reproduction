@@ -1,0 +1,24 @@
+# MATLAB autosave files
+*.asv
+*.m~
+
+# MATLAB temporary and backup files
+*.autosave
+*.slxc
+*.mex*
+
+# MATLAB code generation / build folders
+slprj/
+codegen/
+
+# MATLAB project derived files
+*.prj~
+resources/project/Root.type.Files/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
