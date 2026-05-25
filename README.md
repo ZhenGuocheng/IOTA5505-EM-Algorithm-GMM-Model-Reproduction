@@ -288,28 +288,6 @@ The numerical results in this repository correspond to the GMM reproduction expe
 
 The report uses the generated likelihood trace, parameter recovery tables, covariance recovery diagnostics, update-formula consistency check, and figures to support the theoretical discussion of EM monotonicity and the closed-form GMM E-step and M-step updates.
 
-## Suggested Citation
-
-When referring to this repository in the report or in other documents, it may be cited as:
-
-```text
-G. Zhen, "IOTA5505 EM-GMM Reproduction Code," GitHub repository, version v1.0.0, 2026.
-```
-
-A BibTeX-style entry may be written as:
-
-```bibtex
-@software{zhen2026emgmmrepo,
-  author  = {Zhen, Guocheng},
-  title   = {{IOTA5505 EM-GMM Reproduction Code}},
-  year    = {2026},
-  version = {v1.0.0},
-  url     = {https://github.com/<your-username>/iota5505-em-gmm-reproduction},
-  note    = {MATLAB code and fixed-seed numerical outputs for a Gaussian mixture model EM reproduction experiment}
-}
-```
-
-Replace `<your-username>` with the actual GitHub username after the repository is created.
 
 ## License
 
